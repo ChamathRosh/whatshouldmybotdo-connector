@@ -1,0 +1,11 @@
+{
+  "name": "whatshouldmybotdo",
+  "version": "1.0.0",
+  "description": "Free, read-only MCP connector from WhatShouldMyBotDo: plan a small business's first AI agent and its next 3 jobs, search AI agent use cases, and get copy-paste drafts-first routines for Grok Bot, ChatGPT, Claude or n8n. No account, no API key, no data kept.",
+  "author": { "name": "WhatShouldMyBotDo" },
+  "homepage": "https://whatshouldmybotdo.com/connector",
+  "repository": "https://github.com/ChamathRosh/whatshouldmybotdo-connector",
+  "license": "MIT",
+  "keywords": ["ai-agents", "small-business", "planner", "templates", "grok-bot", "mcp", "read-only"],
+  "logo": "assets/logo.png"
+}

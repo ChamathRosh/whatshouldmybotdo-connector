@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "whatshouldmybotdo": {
+      "url": "https://whatshouldmybotdo.com/api/mcp"
+    }
+  }
+}
