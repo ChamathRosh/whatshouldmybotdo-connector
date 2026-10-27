@@ -1,6 +1,6 @@
 # WhatShouldMyBotDo MCP connector
 
-A free, read-only remote MCP server that helps small-business owners pick their first AI agent. It uses the same planner and use-case library as https://whatshouldmybotdo.com.
+A free, read-only remote MCP server that helps small-business owners pick their first AI agent. It uses the same planner and use-case library as https://whatshouldmybotdo.com/?utm_source=github&utm_campaign=chanlab&utm_content=c98.
 
 - Server URL: `https://whatshouldmybotdo.com/api/mcp` (Streamable HTTP, no sign-in, no API key)
 - Docs: https://whatshouldmybotdo.com/connector
